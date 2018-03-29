@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/EscapeGame/EscapeGameMainScene.unity
+  isLoaded: 1
+  isActive: 1
